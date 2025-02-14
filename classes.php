@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+<!-- Mirrored from kickbox.coralixthemes.com/red/store-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 May 2022 11:51:19 GMT -->
+<head>
+		<meta charset="utf-8">
+		<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+		<title>Product - Fitness Center</title>
+		<meta name="description" content="This is the site description.">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link rel="icon" type="image/png" href="apple-touch-icon-precomposed.png">
+		<!--[if IE]><link rel="shortcut icon" href="favicon.ico" /><![endif]-->
+		<!--********************  CSS  ********************-->
+
+		<!--Font: Google Font-->
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Raleway:500,600,700,100,800,900,400,200,300%7C">
+
+		<!--Owl Carousel-->
+		<link rel="stylesheet" href="js/vendor/owl-carousel/owl.carousel.css">
+		<link rel="stylesheet" href="js/vendor/owl-carousel/owl.theme.css">
+		<!-- fancyBox-->
+		<link rel="stylesheet" href="js/vendor/fancybox/jquery.fancybox.css">
+		<!--Custom CSS-->
+		<link rel="stylesheet" href="css/styles.css">
+		<link rel="stylesheet" href="css/colors/red.css">
+		<!--Modernizr-->
+		<script src="js/vendor/modernizr.min.js"></script>
+	</head>
+	<body>
+
+		<header>
+			<!--begin Top Bar-->
+			<div class="topbar">
+				<div class="container">
+					<p class="language"><a href="#">en</a><a href="#">es</a><a href="#">fr</a></p>
+					<ul class="social">
+						<li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="#" class="youtube"><i class="fa fa-youtube"></i></a></li>
+						<li><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
+						<li><a href="#" class="gplus"><i class="fa fa-google-plus"></i></a></li>
+						<li><a href="#" class="dribble"><i class="fa fa-dribbble"></i></a></li>
+					</ul>
+					<ul class="top-menu">
+						<li><a href="contact.html"><i class="fa fa-envelope-o"></i>Contact</a></li>
+						<li><a href="#"><i class="fa fa-lock"></i>Login</a></li>
+						<li><a href="#"><i class="fa fa-user"></i>Register</a></li>
+					</ul>
+				</div>
+			</div>
+			<!--end Top Bar-->
+			<!--begin Navbar-->
+		<?php  include('nav.php');?>
+			<!--end Navbar-->
+			<!--begin Title-->
+			<div class="title title-store-single">
+				<div class="container">
+					<h1>Product</h1>
+				</div>
+			</div>
+			<!--end Title-->
+		</header>
+		<!--end Header-->
+		<!--begin Content-->
+		<section align="center">
+			<article>
+				<div class="container" align="left">
+					<!-- <h2>For Men | Jackets</h2> -->
+					<div class="row">
+						<div class="col-md-3">
+							<!-- <div class="sidebar"> -->
+								
+								<!-- <h4>Filter by Price</h4> -->
+								
+								<!-- <h4>Categories</h4> -->
+								<!-- <ul class="categories">
+									<li><a href="#"><i class="fa fa-angle-right"></i>Woman</a>
+										<ul>
+											<li><a href="#"><i class="fa fa-angle-right"></i>Cloting</a></li>
+											<li><a href="#"><i class="fa fa-angle-right"></i>Shoes</a>
+												<ul>
+													<li><a href="#"><i class="fa fa-angle-right"></i>Casual Shoes</a></li>
+													<li><a href="#"><i class="fa fa-angle-right"></i>Formal Shoes</a></li>
+													<li><a href="#"><i class="fa fa-angle-right"></i>Boots</a></li>
+													<li><a href="#"><i class="fa fa-angle-right"></i>Sandals</a></li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+									<li><a href="#"><i class="fa fa-angle-right"></i>Accesories</a></li>
+									<li><a href="#"><i class="fa fa-angle-right"></i>Sportwear</a></li>
+									<li><a href="#"><i class="fa fa-angle-right"></i>Maternity</a></li>
+								</ul> -->
+								<!-- <h4>Most Popular</h4> -->
+								
+								<!-- <h4>Color Filter</h4> -->
+								<!-- <div class="colors">
+								</div> -->
+							<!-- 	<div id="carousel-related" data-ride="carousel" class="carousel slide">
+									<ol class="carousel-indicators">
+										<li data-target="#carousel-related" data-slide-to="0" class="active"></li>
+										<li data-target="#carousel-related" data-slide-to="1"></li>
+										<li data-target="#carousel-related" data-slide-to="2"></li>
+									</ol>
+									<div class="carousel-inner">
+										<div class="item active"><img src="img/store/related01.jpg" alt="//"></div>
+										<div class="item"><img src="img/store/related02.jpg" alt="//"></div>
+										<div class="item"><img src="img/store/related03.jpg" alt="//"></div>
+									</div>
+								</div> -->
+							<!-- </div>/ -->		
+						</div>
+						<div class="col-md-9">
+							<!-- <div class="bars clearfix">
+								<div class="prev-next"><a href="#">Prev</a>|<a href="#">Next</a></div>
+								<ol class="breadcrumb">
+									<li>Lited in Category: </li>
+									<li><a href="#">Home</a></li>
+									<li><a href="#">Library</a></li>
+									<li class="active">Data</li>
+								</ol>
+							</div> -->
+							<div class="store-single-picture">
+								<figure><img id="img-single-store" src="img/store/item-single01.jpg" data-zoom-image="img/store/item-single01.jpg" alt="//"></figure>
+								<div id="owl-store-single" class="owl-store-single"><a href="#" data-image="img/store/item-single01.jpg" data-zoom-image="img/store/item-single01.jpg">
+										<figure><img src="img/store/item-single01.jpg" alt="//"></figure></a><a href="#" data-image="img/store/item-single02.jpg" data-zoom-image="img/store/item-single02.jpg">
+										<figure><img src="img/store/item-single02.jpg" alt="//"></figure></a><a href="#" data-image="img/store/item-single03.jpg" data-zoom-image="img/store/item-single03.jpg">
+										<figure><img src="img/store/item-single03.jpg" alt="//"></figure></a><a href="#" data-image="img/store/item-single04.jpg" data-zoom-image="img/store/item-single04.jpg">
+										<figure><img src="img/store/item-single04.jpg" alt="//"></figure></a>
+								</div>
+							</div>
+							<div class="store-single-details">
+								<h2>Impact Half Zip</h2>
+								<div class="price"><strong>$64.99</strong>
+									<del>$89.99</del>
+								</div>
+								<h4>Product Information</h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat dolorem incidunt, dicta nihil itaque beatae odio earum, laborum sint cumque.</p>
+								<div class="rate"><strong><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></strong><i class="fa fa-star"></i><span>(18)</span></div>
+								<form action="#">
+									<div class="form-group">
+										<label for="store-item-size">Size: </label>
+										<select id="store-item-size" class="form-control">
+											<option>XXL</option>
+											<option>XL</option>
+											<option>L</option>
+										</select>
+									</div>
+									<div class="form-group">
+										<label for="store-item-color">Color: </label>
+										<select id="store-item-color" class="form-control">
+											<option>Black</option>
+											<option>White</option>
+											<option>Red</option>
+										</select>
+									</div><a href="#">Clear Selection</a>
+									<div class="form-group amount">
+										<label for="store-item-amount" class="sr-only">Amount: </label>
+										<input id="store-item-amount" value="1" class="form-control">
+									</div>
+									<button class="btn btn-form"><i class="fa fa-shopping-cart"></i>Add to Cart</button>
+									<div class="clearfix"></div>
+								</form>
+								<p><strong>Categories: </strong>Desses, Man.</p>
+								<p><strong>Tags: </strong>Dress, Fashion, Girl.</p>
+								<ul class="social social-circled">
+									<li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
+									<li><a href="#" class="gplus"><i class="fa fa-google-plus"></i></a></li>
+								</ul>
+							</div>
+							<div class="clearfix"></div>
+							<div class="separator"></div>
+							<div class="row">
+								<div class="col-md-12">
+									<ul role="tablist" class="nav nav-tabs">
+										<li class="active"><a href="#one" role="tab" data-toggle="tab">Description</a></li>
+										<li><a href="#two" role="tab" data-toggle="tab">Additional Information</a></li>
+										<li><a href="#three" role="tab" data-toggle="tab">Reviews (1)</a></li>
+										<li><a href="#four" role="tab" data-toggle="tab">Custom HTML</a></li>
+									</ul>
+									<div class="tab-content">
+										<div id="one" class="tab-pane fade in active">
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, facere obcaecati! Dolores recusandae consequuntur, magnam sequi praesentium. Quod nemo dolorem eveniet blanditiis sunt, quaerat facilis ad molestiae cupiditate suscipit praesentium molestias dolore, voluptatem obcaecati voluptas soluta. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, facere obcaecati! Dolores recusandae consequuntur, magnam sequi praesentium. Quod nemo dolorem eveniet blanditiis sunt, quaerat facilis ad molestiae cupiditate suscipit praesentium molestias dolore, voluptatem obcaecati voluptas soluta. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, facere obcaecati! Dolores recusandae consequuntur, magnam sequi praesentium. Quod nemo dolorem eveniet blanditiis sunt, quaerat facilis ad molestiae cupiditate suscipit praesentium molestias dolore, voluptatem obcaecati voluptas soluta.</p>
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo doloribus, sint architecto rem earum laborum rerum, cum. Dignissimos aliquam numquam nobis molestias, vitae rem, repellendus placeat tempore unde ipsam, illo, voluptatibus fugiat. Doloribus, quod ipsam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, facere obcaecati! Dolores recusandae consequuntur, magnam sequi praesentium. Quod nemo dolorem eveniet blanditiis sunt, quaerat facilis ad molestiae cupiditate suscipit praesentium molestias dolore, voluptatem obcaecati voluptas soluta.</p>
+											<div class="clearfix"></div>
+										</div>
+										<div id="two" class="tab-pane fade">
+											<figure class="img-text pull-right"><img src="img/about/programs.jpg" alt="//"></figure>
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo doloribus, sint architecto rem earum laborum rerum, cum. Dignissimos aliquam numquam nobis molestias, vitae rem, repellendus placeat tempore unde ipsam, illo, voluptatibus fugiat. Doloribus, quod ipsam.</p>
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, facere obcaecati! Dolores recusandae consequuntur, magnam sequi praesentium. Quod nemo dolorem eveniet blanditiis sunt, quaerat facilis ad molestiae cupiditate suscipit praesentium molestias dolore, voluptatem obcaecati voluptas soluta.</p>
+											<div class="clearfix"></div>
+										</div>
+										<div id="three" class="tab-pane fade">
+											<figure><img src="img/about/programs.jpg" alt="//"></figure>
+											<div class="clearfix"></div>
+										</div>
+										<div id="four" class="tab-pane fade">
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo doloribus, sint architecto rem earum laborum rerum, cum. Dignissimos aliquam numquam nobis molestias, vitae rem, repellendus placeat tempore unde ipsam, illo, voluptatibus fugiat. Doloribus, quod ipsam.</p>
+											<figure class="img-text"><img src="img/about/programs.jpg" alt="//"></figure>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="separator"></div>
+							<div class="row">
+								<div class="col-md-12">
+									<h2>Related Products</h2>
+									<div class="store-grid">
+										<div class="store-item">
+											<figure><img src="img/store/item01-a.jpg" alt="//"></figure>
+											<figure><img src="img/store/item01-b.jpg" alt="//"></figure>
+											<div class="links"><a href="#" class="btn btn-store"><i class="fa fa-shopping-cart"></i>Add to Cart</a><a href="#" class="btn btn-store"><i class="fa fa-eye"></i>View Item</a></div>
+											<div class="foot">
+												<div class="price"><strong>$64.99</strong></div>
+												<h4>Impact Half Zip</h4>
+												<h6>Men's Running</h6>
+											</div>
+										</div>
+										<div class="store-item">
+											<figure><img src="img/store/item02-a.jpg" alt="//"></figure>
+											<figure><img src="img/store/item02-b.jpg" alt="//"></figure>
+											<div class="links"><a href="#" class="btn btn-store"><i class="fa fa-shopping-cart"></i>Add to Cart</a><a href="#" class="btn btn-store"><i class="fa fa-eye"></i>View Item</a></div>
+											<div class="foot">
+												<div class="price"><strong>$64.99</strong></div>
+												<h4>Impact Half Zip</h4>
+												<h6>Men's Running</h6>
+											</div>
+										</div>
+										<div class="store-item">
+											<figure><img src="img/store/item03-a.jpg" alt="//"></figure>
+											<figure><img src="img/store/item03-b.jpg" alt="//"></figure>
+											<div class="links"><a href="#" class="btn btn-store"><i class="fa fa-shopping-cart"></i>Add to Cart</a><a href="#" class="btn btn-store"><i class="fa fa-eye"></i>View Item</a></div>
+											<div class="foot">
+												<div class="price">
+													<del>$98.99</del><span>$79.99</span>
+												</div>
+												<h4>Impact Half Zip</h4>
+												<h6>Men's Running</h6>
+											</div>
+										</div>
+										<div class="clearfix"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</article>
+			<div class="partners">
+				<div class="container">
+					<div id="owl-partners"><a href="#">
+							<figure class="partners-item"><img src="img/partners/partners01.jpg" alt="//"></figure></a><a href="#">
+							<figure class="partners-item"><img src="img/partners/partners02.jpg" alt="//"></figure></a><a href="#">
+							<figure class="partners-item"><img src="img/partners/partners03.jpg" alt="//"></figure></a><a href="#">
+							<figure class="partners-item"><img src="img/partners/partners04.jpg" alt="//"></figure></a><a href="#">
+							<figure class="partners-item"><img src="img/partners/partners05.jpg" alt="//"></figure></a><a href="#">
+							<figure class="partners-item"><img src="img/partners/partners06.jpg" alt="//"></figure></a><a href="#">
+							<figure class="partners-item"><img src="img/partners/partners04.jpg" alt="//"></figure></a><a href="#">
+							<figure class="partners-item"><img src="img/partners/partners05.jpg" alt="//"></figure></a><a href="#">
+							<figure class="partners-item"><img src="img/partners/partners02.jpg" alt="//"></figure></a>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--end Content-->
+		<!--begin Footer-->
+		<footer>
+			<div class="offer">
+				<div class="container">
+					<h3>Enjoy 50% Off For All Classes</h3>
+					<h4>Call us today for register - 0123-456-789</h4><a href="#" class="btn btn-offer"> <i class="fa fa-heart"></i>Join Now</a>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 footer-about">
+						<h4>About Us</h4>
+						<figure><img src="img/company.png" alt="//"></figure>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia, doloremque delectus eaque alias accusantium repellat.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia, doloremque delectus eaque alias accusantium.</p>
+					</div>
+					<div class="col-md-4 footer-menu">
+						<h4>Custom Menu</h4>
+						<ul>
+							<li><a href="#"><i class="fa fa-long-arrow-right"></i>Home</a></li>
+							<li><a href="#"><i class="fa fa-long-arrow-right"></i>The Club</a></li>
+							<li><a href="#"><i class="fa fa-long-arrow-right"></i>Trainers</a></li>
+							<li><a href="#"><i class="fa fa-long-arrow-right"></i>Pricing</a></li>
+							<li><a href="#"><i class="fa fa-long-arrow-right"></i>Classes</a></li>
+							<li><a href="#"><i class="fa fa-long-arrow-right"></i>News</a></li>
+							<li><a href="#"><i class="fa fa-long-arrow-right"></i>Membership</a></li>
+							<li><a href="#"><i class="fa fa-long-arrow-right"></i>Contact</a></li>
+						</ul>
+					</div>
+					<div class="col-md-4 opening-hours">
+						<h4>Open Hours</h4>
+						<ul>
+							<li>
+								<p>Monday</p>
+								<p>09:30 AM</p>
+								<p>07:30 PM</p>
+							</li>
+							<li>
+								<p>Tuesday</p>
+								<p>09:30 AM</p>
+								<p>07:30 PM</p>
+							</li>
+							<li>
+								<p>Wednesday</p>
+								<p>09:30 AM</p>
+								<p>07:30 PM</p>
+							</li>
+							<li>
+								<p>Thursday</p>
+								<p>09:30 AM</p>
+								<p>07:30 PM</p>
+							</li>
+							<li>
+								<p>Friday</p>
+								<p>09:30 AM</p>
+								<p>07:30 PM</p>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8">
+						<h4>Tweets</h4>
+						<div id="tweet-feed" class="tweet-feed"></div>
+					</div>
+					<div class="col-md-4">
+						<h4>We are social</h4>
+						<ul class="social social-square">
+							<li><a href="#" class="gplus"><i class="fa fa-google-plus"></i></a></li>
+							<li><a href="#" class="dribble"><i class="fa fa-dribbble"></i></a></li>
+							<li><a href="#" class="youtube"><i class="fa fa-youtube"></i></a></li>
+							<li><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
+							<li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="copy">
+				<div class="container">
+					<p class="top"><a href="#">Go to Top<i class="fa fa-long-arrow-up"></i></a></p>
+					<p><p>© <a href="http://www.coralixthemes.com/">CoralixThemes</a> - Elite ThemeForest Author. <p> <p>
+				</div>
+			</div>
+		</footer>
+		<!--end Footer-->
+
+
+
+
+		<!--********************************************************************-->
+		<!--************************* Javascript Files *************************-->
+		<script src="js/vendor/jquery.min.js"></script>
+		<script src="js/vendor/bootstrap.min.js"></script>
+
+		<!--Owl Carousel-->
+		<script src="js/vendor/owl-carousel/owl.carousel.js"></script>
+		<!--Twitter Feed-->
+		<script src="js/vendor/twitter/jquery.tweet.min.js"></script>
+		<!-- Slider Range-->
+		<script src="js/vendor/bootstrap-slider.js"></script>
+		<!-- ElevateZoom 3.0.8-->
+		<script src="js/vendor/jquery.elevateZoom.min.js"></script>
+		<!-- fancyBox-->
+		<script src="js/vendor/fancybox/jquery.fancybox.pack.js"></script>
+		<!--Custom Script-->
+		<script src="js/script.js"></script>
+	</body>
+
+<!-- Mirrored from kickbox.coralixthemes.com/red/store-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 May 2022 11:51:19 GMT -->
+</html>
